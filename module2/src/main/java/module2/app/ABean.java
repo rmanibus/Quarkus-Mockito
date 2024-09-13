@@ -2,7 +2,7 @@ package module2.app;
 
 import module1.shared.Apple;
 
-import javax.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
 public class ABean implements Apple {
